@@ -1,6 +1,6 @@
 <?php
 /**
- * Determines if the given CUSIP is valid according to it's checksum digit.
+ * Determines if the given CUSIP is valid according to its checksum digit.
  * Below is the wikipedia link to the pseudocode that this function is based on.
  * https://en.wikipedia.org/wiki/CUSIP#Check_digit_pseudocode
  * @param String $cusip
